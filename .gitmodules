@@ -1,3 +1,6 @@
 [submodule "telemetry-aggregator"]
 	path = telemetry-aggregator
 	url = https://github.com/ruudjuffermans/telemetry-aggregator.git
+[submodule "telemetry-broadcaster"]
+	path = telemetry-broadcaster
+	url = https://github.com/ruudjuffermans/telemetry-broadcaster.git
